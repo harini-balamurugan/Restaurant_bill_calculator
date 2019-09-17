@@ -11,12 +11,12 @@ The design is so simple that the user won’t find any difficulties while workin
 
 [This is the login screen where the user had to provide their username and password to move to the next screen.](login.py)
 
-[Here the user will be asked question whether to enter the bill or to change the price](question.py)
+[Here the user will be asked question whether to enter the bill or to change the price.](question.py)
 
 [Here we can change the price of the given items and update it.](price.py)
 
-[In this screen the items with a calculator appears. We can just type the quantity of the items and press total to calculate the amount](restaurant_management_system.py)
+[In this screen the items with a calculator appears. We can just type the quantity of the items and press total to calculate the amount.](restaurant_management_system.py)
 
 ## note
-[The code (login.py) is enough to run the program and the remaining codes(question.py, price.py.restayrant_management_system.py) are initialized within this](login.py)
+[The code (login.py) is enough to run the program and the remaining codes(question.py, price.py.restayrant_management_system.py) are initialized within this.](login.py)
 
